@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rizalnur.art@gmail.com**
 
-- ⚡ Fun fact **I'm CTF Player**
+- ⚡ Fun fact **I'm CTF Player and hobbies to Ricing Desktop Linux**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
