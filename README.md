@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rizal Nur</h1>
-<h3 align="center">Just a student who like Cyber Security, and Linux Enthusiast</h3>
+<h1 align="center">Harro 👋, I'm Rizal Nur</h1>
+<h3 align="center">Just a student who like Cyber Security, and Programming</h3>
+<h4 align="center"><a href="https://rin4th.my.id">Personal Blog</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4th&label=Profile%20views&color=0e75b6&style=flat" alt="rin4th" /> </p>
 
-- 🔭 I’m currently working on **personal blog**
+<!-- - 🔭 I’m currently working on **personal blog** -->
 
-- 🌱 I’m currently learning **Backend, Golang, Cyber Security, DevOps**
+- 🌱 I’m currently learning **Backend, Cyber Security, DevOps**
 
 - 📫 How to reach me **rizalnur.art@gmail.com**
 
